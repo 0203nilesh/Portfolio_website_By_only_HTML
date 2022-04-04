@@ -1,0 +1,19 @@
+ ** HTML NOTES ****
+ **** REFERENCE  TO THE "DEVDOCS WEBSITE" FOR THE DOCUMENTATION ****
+ 1. ATTRIBUTED RELATED WITH THE TAG NAME:-
+    a. Size : height of the element
+    b. color of the element
+    c. underline the element
+
+2. "CENTER TAG NAME":- This will center the tags of whatever is written inside of the this tag.
+
+*******FUN FACTS *******************
+        	1.WE can head over to the website "web.archive.org" for seeing. How website looks like when it has launched and this is aloso
+           know as wayback machine.
+          2.If you want to use your photo as a URL then you can just uppload your photo on the "PhotoBucket.com" and use the url
+           of you image in any of your code.
+          3. "CROP-CIRCLE.IMAGEONLINE.COM" :-For circling the image or doing photoshop.
+
+*********************KHUSHKHABRI YOU CAN UPLOAD YOUR WEBSITE ON OVER THE BROWSER BY JUST USING THE GIT HUB AND HOST IT BY CUSTOM URL************
+    1.SETTING>PAGE>SOURCE>"CHANGE IT TO THE MAIN BRANCH"> "CLICK ON THE SAVE BUTTON "
+    2.Wait for some time to publish it to the browser and now you are able to watch from any of your devices.
